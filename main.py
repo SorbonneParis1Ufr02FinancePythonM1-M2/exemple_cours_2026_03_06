@@ -1,3 +1,4 @@
+from model import compute
 from repository import get_data
 
 
